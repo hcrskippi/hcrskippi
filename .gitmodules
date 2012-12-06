@@ -1,0 +1,24 @@
+[submodule "nmea_gps_driver"]
+	path = nmea_gps_driver
+	url = https://github.com/hcrskippi/nmea_gps_driver.git
+[submodule "laser_listener"]
+	path = laser_listener
+	url = https://github.com/hcrskippi/laser_listener.git
+[submodule "joy_sim_launch"]
+	path = joy_sim_launch
+	url = https://github.com/hcrskippi/joy_sim_launch.git
+[submodule "haptic_interface"]
+	path = haptic_interface
+	url = https://github.com/hcrskippi/haptic_interface.git
+[submodule "joystick"]
+	path = joystick
+	url = https://github.com/hcrskippi/joystick.git
+[submodule "joystick_interface"]
+	path = joystick_interface
+	url = https://github.com/hcrskippi/joystick_interface.git
+[submodule "sonar_listener"]
+	path = sonar_listener
+	url = https://github.com/hcrskippi/sonar_listener.git
+[submodule "sonar_arduino"]
+	path = sonar_arduino
+	url = https://github.com/hcrskippi/sonar_arduino.git
