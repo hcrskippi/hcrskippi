@@ -22,3 +22,6 @@
 [submodule "sonar_arduino"]
 	path = sonar_arduino
 	url = https://github.com/hcrskippi/sonar_arduino.git
+[submodule "laser_combiner"]
+	path = laser_combiner
+	url = https://github.com/hcrskippi/laser_combiner.git
