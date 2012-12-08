@@ -12,3 +12,4 @@ git up-sub joystick_interface
 git up-sub nmea_gps_driver
 git up-sub sonar_listener
 git up-sub laser_combiner
+git up-sub sonar_override

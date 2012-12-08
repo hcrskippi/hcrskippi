@@ -25,3 +25,6 @@
 [submodule "laser_combiner"]
 	path = laser_combiner
 	url = https://github.com/hcrskippi/laser_combiner.git
+[submodule "sonar_override"]
+	path = sonar_override
+	url = https://github.com/hcrskippi/sonar_override.git
